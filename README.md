@@ -1,1 +1,1 @@
-# gateway.js
+# bot.js
